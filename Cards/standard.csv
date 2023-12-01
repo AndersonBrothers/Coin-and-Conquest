@@ -1,0 +1,26 @@
+name,main text,cost
+Laborer,1 Labor,
+Wage Labor,1 gold : 5 Labor,gold
+Mill,Chose a resource type. Until end of turn you may exchange 2 resource tokens for 1 gold.,2 steel 2 stone
+Work House ,"1 Draw
+3 Labor
+Gain one Laborer.",2 Food 3 Wood
+Parish Priest,"1 Draw
+
+Trash up to two cards from your hand.",1 Food 1 Stone
+Library ,kkkkkkjjjjjjjj,2 Food 2 Stone
+Village,1 Draw,1 Food 1 Wood 1 Stone 1 Steel
+Child Labor,"This turn Laborers give +2 labor.
+
+When you gain Child Labor, trash all Laborers in play.",3 Food
+Merchant Ship,"4 Any: Place resources under Merchant Ship.
+
+1 Defence
+
+If won by owner,  3 Gold.
+
+If won by others, 4 Any resources.
+
+Discard in either case.",2 Wood 1 Steel
+Levy Taxes,wip,
+Master Artisan,3 labor,1 Food 2 Wood
