@@ -1,0 +1,12 @@
+name,main text,cost
+Militia,"1 Attack
+1 Pillage",1 Food 1 Steel
+Soldiers,"1 Attack
+2 Pillage",1 Food 2 Steel
+Wall,"1 Draw
+
+1 Attack
+
+Can harvest from land with wall;
+
+Can only be played on the defending side.",1 Wood 2 Stone
