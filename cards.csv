@@ -1,0 +1,23 @@
+name,main text,cost
+Heir,"1 Attack
+
+1 Victory
+
+Trash Heir if it is used in a battle that loses.",1 Gold
+General,"3 Attack
+
+3 Victory
+
+Trash General if it is involved in a battle that loses.",3 Gold
+Castle,"5 Victory
+
+2 Defense
+
+1 Hand Size
+
+Place Castle on a territory you control. Castle is also lost if you lose the territory.",5 Gold
+Royal Wedding,"Choose a card from your deck, and place it into your hand.
+
+10 Victory
+
+Gain a Heir.",7 Gold
