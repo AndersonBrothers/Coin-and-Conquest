@@ -1,6 +1,6 @@
 name,main text,cost
-Laborer,1 Labor,
-Wage Labor,1 gold : 5 Labor,gold
+Laborer,1 Labor, 1 Food
+Wage Labor,1 gold : 5 Labor,1 Gold
 Mill,Chose a resource type. Until end of turn you may exchange 2 resource tokens for 1 gold.,2 steel 2 stone
 Work House ,"1 Draw
 3 Labor
@@ -8,7 +8,7 @@ Gain one Laborer.",2 Food 3 Wood
 Parish Priest,"1 Draw
 
 Trash up to two cards from your hand.",1 Food 1 Stone
-Library ,kkkkkkjjjjjjjj,2 Food 2 Stone
+Library ,2 Draw Target player discards one card to a minimum of two,2 Food 2 Stone
 Village,1 Draw,1 Food 1 Wood 1 Stone 1 Steel
 Child Labor,"This turn Laborers give +2 labor.
 
