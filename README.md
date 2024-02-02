@@ -7,11 +7,10 @@ Tabletop deck building game that emphasizes player interaction
 
 <img src="./media/banner.png" alt="banner"/>
 
-[Goals](goals) •
+[Goals](#goals) •
 [How to play](#how-to-play) •
 
 </div>
-
 
 <br />
 
