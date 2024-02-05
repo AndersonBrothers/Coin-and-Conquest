@@ -14,7 +14,7 @@ Tabletop deck building game that emphasizes player interaction
 
 <br />
 
-##  Goals
+# Goals
 
 - High player interaction
 - Diverse deckbuilding opportunities
@@ -23,3 +23,7 @@ Tabletop deck building game that emphasizes player interaction
 - Small box
   
 ## How to play
+
+
+### Card Types
+<img src="./media/card-types.png" alt="banner"/>
