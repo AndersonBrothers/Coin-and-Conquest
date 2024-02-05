@@ -29,4 +29,6 @@ Tabletop deck building game that emphasizes player interaction
 <img src="./media/card-types.png" alt="banner"/>
 
 
+### Example
+
 <img src="./media/banner.png" alt="banner"/>
