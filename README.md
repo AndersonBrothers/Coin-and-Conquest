@@ -37,3 +37,6 @@ There are 4 basic resource types. each resource can be extracted from its corres
 - Forest = Wood
 - Mine   = Steel
 - Quarry = Stone
+
+### Example Cards 
+<img src="./media/cards.png" alt="banner"/>
