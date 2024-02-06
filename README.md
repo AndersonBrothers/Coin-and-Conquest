@@ -29,7 +29,7 @@ Tabletop deck building game that emphasizes player interaction
 <img src="./media/card-types.png" alt="banner"/>
 
 ### Resources
-<img src="./media/resources.svg" alt="banner"/>
+<img src="./media/resources.png" alt="banner"/>
 
 There are 4 basic resource types. each resource can be extracted from its corresponding territory with labor. 
 
