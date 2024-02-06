@@ -31,6 +31,14 @@ Tabletop deck building game that emphasizes player interaction
 ### Resources
 <img src="./media/resources.svg" alt="banner"/>
 
+There are 4 basic resource types. each resource can be extracted from its corresponding territory with labor. 
+
+Field = Food
+Forest = Wood
+Mine = Steel
+Quarry = Stone
+
+
 ### Example
 
 <img src="./media/banner.png" alt="banner"/>
