@@ -66,5 +66,4 @@ There are 4 basic resource types. each resource can be extracted from its corres
 ### Programmes Used
 
 [Dextous](https://www.dextrous.com.au/) <br />
-[Gimp](https://www.gimp.org/) <br />
-[Canva](https://www.canva.com/) <br />
+[Gimp](https://www.gimp.org/)
