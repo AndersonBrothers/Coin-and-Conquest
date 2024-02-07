@@ -9,7 +9,8 @@ Tabletop deck building game that emphasizes player interaction
 
 [Goals](#goals) •
 [How to play](#how-to-play) •
-[Print & Play](#print--play)
+[Print & Play](#print--play) •
+[Credits](#credits)
 
 </div>
 
@@ -49,3 +50,21 @@ There are 4 basic resource types. each resource can be extracted from its corres
 [Rules](https://pages.github.com/) <br />
 [Cards](https://pages.github.com/) <br />
 [Tokens](https://pages.github.com/)
+
+## Credits
+### Playtesters
+- Noel Anderson
+- Silas Anderson
+- Owa Hughes
+- Toby Hughes
+- Nick Kapitulik
+- Elijah Jackson
+- Jayden Skelly
+- Max Shapiro
+- Caleb Kennedy
+- Willie Thacker
+### Programmes Used
+
+[Dextous](https://www.dextrous.com.au/) <br />
+[Gimp](https://www.gimp.org/) <br />
+[Canva](https://www.canva.com/) <br />
