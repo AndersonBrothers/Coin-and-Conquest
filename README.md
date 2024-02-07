@@ -29,6 +29,9 @@ Tabletop deck building game that emphasizes player interaction
 ### Card Types
 <img src="./media/card-types.png" alt="Card Types"/>
 
+### Card Types
+<img src="./media/card-brackdown.png" alt="Card Brackdown"/>
+
 ### Resources
 <img src="./media/resources.png" alt="Resources"/>
 
