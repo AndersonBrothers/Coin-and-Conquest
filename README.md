@@ -52,17 +52,19 @@ There are 4 basic resource types. each resource can be extracted from its corres
 [Tokens](https://pages.github.com/)
 
 ## Credits
+
 ### Playtesters
 - Noel Anderson
 - Silas Anderson
 - Owa Hughes
 - Toby Hughes
-- Nick Kapitulik
 - Elijah Jackson
-- Jayden Skelly
-- Max Shapiro
+- Nick Kapitulik
 - Caleb Kennedy
+- Max Shapiro
+- Jayden Skelly
 - Willie Thacker
+
 ### Programmes Used
 
 [Dextous](https://www.dextrous.com.au/) <br />
