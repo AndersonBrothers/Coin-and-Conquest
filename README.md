@@ -9,7 +9,7 @@ Tabletop deck building game that emphasizes player interaction
 
 [Goals](#goals) •
 [How to play](#how-to-play) •
-[Print & Play](#print-&-play)
+[Print & Play](#print--play)
 
 </div>
 
