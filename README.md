@@ -27,10 +27,10 @@ Tabletop deck building game that emphasizes player interaction
 
 
 ### Card Types
-<img src="./media/card-types.png" alt="banner"/>
+<img src="./media/card-types.png" alt="Card Types"/>
 
 ### Resources
-<img src="./media/resources.png" alt="banner"/>
+<img src="./media/resources.png" alt="Resources"/>
 
 There are 4 basic resource types. each resource can be extracted from its corresponding territory with labor. 
 
@@ -40,7 +40,7 @@ There are 4 basic resource types. each resource can be extracted from its corres
 - Quarry = Stone
 
 ### Example Cards 
-<img src="./media/cards.png" alt="banner"/>
+<img src="./media/cards.png" alt="Example Cards"/>
 
 ## Print & Play
 
