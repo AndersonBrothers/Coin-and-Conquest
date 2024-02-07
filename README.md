@@ -9,6 +9,7 @@ Tabletop deck building game that emphasizes player interaction
 
 [Goals](#goals) •
 [How to play](#how-to-play) •
+[Print & Play](#print-&-play)
 
 </div>
 
@@ -40,3 +41,9 @@ There are 4 basic resource types. each resource can be extracted from its corres
 
 ### Example Cards 
 <img src="./media/cards.png" alt="banner"/>
+
+## Print & Play
+
+[Rules](https://pages.github.com/) <br />
+[Cards](https://pages.github.com/) <br />
+[Tokens](https://pages.github.com/)
