@@ -30,7 +30,7 @@ Tabletop deck building game that emphasizes player interaction
 <img src="./media/card-types.png" alt="Card Types"/>
 
 ### Card Types
-<img src="./media/card-brackdown.png" alt="Card Brackdown"/>
+<img src="./media/card-brackdown.png"  width=40% height=40% alt="Card Brackdown"/> 
 
 ### Resources
 <img src="./media/resources.png" alt="Resources"/>
