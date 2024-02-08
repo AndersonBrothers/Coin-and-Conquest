@@ -83,11 +83,13 @@ There are 4 basic resource types. each resource can be extracted from its corres
 ### Playtesters
 - Noel Anderson
 - Silas Anderson
+- Ranulph Brown
 - Owa Hughes
 - Toby Hughes
 - Elijah Jackson
 - Nick Kapitulik
 - Caleb Kennedy
+- Kate Likhite
 - Max Shapiro
 - Jayden Skelly
 - Willie Thacker
