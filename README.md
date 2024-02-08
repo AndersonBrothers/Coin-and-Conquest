@@ -72,9 +72,9 @@ There are 4 basic resource types. each resource can be extracted from its corres
 
 ## Print & Play
 
-[Rules.PDF](https://pages.github.com/) <br />
-[Cards.PDF](https://pages.github.com/) <br />
-[Tokens.PDF](https://pages.github.com/)
+[Rules.PDF](/media/pdf/rules.pdf) <br />
+[Cards.PDF](/media/pdf/cards.pdf) <br />
+[Tokens.PDF](/media/pdf/tokens.pdf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
