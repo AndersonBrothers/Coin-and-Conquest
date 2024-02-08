@@ -4,7 +4,7 @@
   # `4 Kings`
   
 #### Tabletop deck building game that emphasizes player interaction 
-<img src="./media/banner.jpg" alt="banner"/>
+<img src="./media/readme/banner.jpg" alt="banner"/>
 
 [About](#about) •
 [How to play](#how-to-play) •
@@ -32,7 +32,7 @@ We were inspired by games such as [Dominion](https://www.riograndegames.com/game
 ## How to play
 
 ### Card Types
-<img src="./media/card-types.png" alt="Card Types"/>
+<img src="./media/readme/card-types.png" alt="Card Types"/>
 
 <!--
 ### Card brackdown
