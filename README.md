@@ -49,8 +49,26 @@ There are 4 basic resource types. each resource can be extracted from its corres
 - Mine   = Steel
 - Quarry = Stone
 
-### Example Cards 
+### Example Cards
+
+<!--
 <img src="./media/cards.png" alt="Example Cards"/>
+-->
+
+<p align="middle">
+  <img src="/media/cards/serf.png" width="18.9%" /> 
+  <img src="/media/cards/apprentice.png" width="18.9%" />
+  <img src="/media/cards/wall.png" width="18.9%" />
+  <img src="/media/cards/mill.png" width="18.9%" />
+  <img src="/media/cards/merchant-ship.png" width="18.9%" />
+</p>
+<p align="middle">
+  <img src="/media/cards/wage-labor.png" width="18.9%" /> 
+  <img src="/media/cards/village-market.png" width="18.9%" />
+  <img src="/media/cards/soldiers.png" width="18.9%" />
+  <img src="/media/cards/village.png" width="18.9%" />
+  <img src="/media/cards/raiding-ship.png" width="18.9%" />
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
