@@ -72,9 +72,9 @@ There are 4 basic resource types. each resource can be extracted from its corres
 
 ## Print & Play
 
-[Rules.PDF](/media/pdf/rules.pdf) <br />
-[Cards.PDF](/media/pdf/cards.pdf) <br />
-[Tokens.PDF](/media/pdf/tokens.pdf)
+[Rules.PDF](https://raw.githubusercontent.com/AndersonBrothers/4-Kings/New-README.md/media/pdf/rules.pdf) <br />
+[Cards.PDF](https://raw.githubusercontent.com/AndersonBrothers/4-Kings/New-README.md/media/pdf/cards.pdf) <br />
+[Tokens.PDF](https://raw.githubusercontent.com/AndersonBrothers/4-Kings/New-README.md/media/pdf/tokens.pdf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
