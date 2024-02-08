@@ -3,7 +3,7 @@
   
   # `4 Kings`
   
-Tabletop deck building game that emphasizes player interaction
+#### Tabletop deck building game that emphasizes player interaction 
 <img src="./media/banner.jpg" alt="banner"/>
 
 [About](#about) •
