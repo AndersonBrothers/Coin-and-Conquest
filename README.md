@@ -9,7 +9,8 @@
 [About](#about) •
 [How to play](#how-to-play) •
 [Print & Play](#print--play) •
-[Credits](#credits)
+[Credits](#credits) •
+[Contact Us](#contact-us)
 
 </div>
 
@@ -100,5 +101,8 @@ There are 4 basic resource types. each resource can be extracted from its corres
 
 [Dextous](https://www.dextrous.com.au/) <br />
 [Gimp](https://www.gimp.org/)
+
+## Contact Us
+`Anderson.Brothers@protonmail.com`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
