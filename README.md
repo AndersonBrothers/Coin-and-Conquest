@@ -102,7 +102,7 @@ There are 4 basic resource types. each resource can be extracted from its corres
 [Dextous](https://www.dextrous.com.au/) <br />
 [Gimp](https://www.gimp.org/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact Us
 `Anderson.Brothers@protonmail.com`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
