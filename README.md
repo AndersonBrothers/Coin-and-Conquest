@@ -1,8 +1,11 @@
 <a name="readme-top"></a>
 <div align="center">
+
+```json
+   This game is still in alpha and actively being playtested
+```
   
   # `4 Kings`
-  *This game is still in alpha and actively being playtested*
   
 #### Tabletop deck building game that emphasizes player interaction 
 <img src="./media/readme/banner.jpg" alt="banner"/>
