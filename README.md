@@ -1,9 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
-
-```json
-   This game is still in alpha and actively being playtested
-```
+   
+   *This game is still in alpha and actively being playtested*
   
   # `4 Kings`
   
