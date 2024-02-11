@@ -2,7 +2,7 @@
 <div align="center">
   
   # `4 Kings`
-  *This game is still in alpha and being playtested*
+  *This game is still in alpha and actively being playtested*
   
 #### Tabletop deck building game that emphasizes player interaction 
 <img src="./media/readme/banner.jpg" alt="banner"/>
