@@ -18,10 +18,10 @@
 
 ## About
 
-Four Kings is a brutal deck building card game that pairs 4-5 players against each other as medieval lords. It’s a cutthroat struggle to the top so mind who you play with, feelings can get hurt. The games asymmetrical start does not lend itself to power gamers. For the best results the game should be approached with a light-hearted seriousness. This is made easier by the fact you can always say the odds were stacked against you.
-We were inspired by games such as [Dominion](https://www.riograndegames.com/games/dominion), [Loot](https://gamewright.com/product/Loot), [Magic The Gathering](https://magic.wizards.com/), [Catan](https://www.catan.com/) and others tabletop games. While Dominion was a pioner of the deckbuilding genre it lacks in player interaction. 
+Four Kings is a brutal deck building card game that pairs 4-5 players against each other as medieval lords. It’s a cutthroat struggle to the top so mind who you play with, as feelings can get hurt. The game’s asymmetrical start does not lend itself to power gamers. For best results, the game should be approached with a light-hearted mercilessness. This is made easier by the fact that you can always say the odds were never stacked in your favor, and that game dynamics can change drastically with only one round of combat, well-placed card draw, or a deal (read: blackmailed agreement) between players. We were inspired by games such as [Dominion](https://www.riograndegames.com/games/dominion), [Loot](https://gamewright.com/product/Loot), [Magic The Gathering](https://magic.wizards.com/), [Catan](https://www.catan.com/) and others tabletop games. While Dominion was a pioneer of the deckbuilding genre, it lacks in player interaction. This led us to explore making a game that combined deckbuilding, negotiation, resource management, and territorial control. 
 
-### Goals
+
+### Our Goals
 * High player interaction
 * Diverse deckbuilding opportunities
 * 4 - 5 players
