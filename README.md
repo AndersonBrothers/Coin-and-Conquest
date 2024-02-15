@@ -75,11 +75,10 @@ Resources can be used to buy Cards and pay for activated abilities.
 <img src="./media/resources.png" alt="Resources"/>
 -->
 
+<!--
 ### Example Cards
 
-<!--
 <img src="./media/cards.png" alt="Example Cards"/>
--->
 
 <p align="middle">
   <img src="/media/cards/serf.png" width="24%" /> 
@@ -95,6 +94,7 @@ Resources can be used to buy Cards and pay for activated abilities.
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 ## Print & Play
 
