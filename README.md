@@ -48,7 +48,9 @@ In C&C each player starts with 2 Territories and a deck of 10 cards. This is the
    <img src="/media//readme/mine1.png" width="24%" /> 
    <img src="/media//readme/quarry2.png" width="24%" />       
 </p>
-The land that you control will dictate much of what you can do with your kingdom. But if you feel constrained by the limits of your land don't worry you can always take someone else's. But to fight a war your going to need
+The land that you control will dictate much of what you can do with your kingdom. But if you feel constrained by the limits of your land don't worry you can always take someone else's.
+
+*Territories are not just valuable for the resources they give you access to, they also give 4 points per territory.*
 
 ### Resources 
 Resources are vital to your Kingdom and are used to buy Cards and pay for activated abilities.\
