@@ -28,8 +28,8 @@ We were inspired by games such as [Dominion](https://www.riograndegames.com/game
 ### Our Goals
 * High player interaction
 * Diverse deckbuilding opportunities
-* 4 - 5 players
-* Under 2 real hours to play
+* 3 - 5 players
+* Actually under 1.5 hours to play (many games highly underestimate their duration)
 * Small box
 
 ### Results
