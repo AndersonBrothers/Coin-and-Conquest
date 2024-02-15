@@ -38,7 +38,7 @@ The current game is still in Alpha testing so this is currently not a finished g
 
 ## How to play
 ### Goal
-your goal is to make the most of the territory you control and build your economy i.e your deck. the winner is the player with the most victory points at the end of the game. Each territories a player controls is worth 4 points and some other cards also have their point value in the top right corner.
+Your goal when playing Coin and Conquest is to make the most of the territory(s) you control and build your kingdoms economy i.e your deck. The winner is the player with the most victory points at the end of the game. Each territory a player controls is worth 4 points and certain other cards also have their point value in the top right corner.
 
 ### Card Types
 <img src="./media/readme/card-types.png" alt="Card Types"/>
