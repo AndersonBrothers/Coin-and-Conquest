@@ -40,9 +40,29 @@ The current game is still in Alpha testing so this is currently not a finished g
 ### Goal
 Your goal when playing Coin and Conquest is to make the most of the territory(s) you control and build your kingdoms economy i.e your deck. The winner is the player with the most victory points at the end of the game. Each territory a player controls is worth 4 points and certain other cards also have their point value in the top right corner.
 
+### Territories
+In C&C each player starts with 2 Territories and a deck of 10 cards. This is their inheritance, this is the foundation of their kingdom. but each kingdom does not have the same geographe and therefore not the same access to resources. In C&C there are 4 territory types. 
+<p align="middle">
+   <img src="/media//readme/field1.png" width="24%" />
+   <img src="/media//readme/forest1.png" width="24%" /> 
+   <img src="/media//readme/mine1.png" width="24%" /> 
+   <img src="/media//readme/quarry2.png" width="24%" />       
+</p>
+
+### Resources 
+There are 5 resource types. 4 of which can be extracted with labor from its corresponding territory
+
+- Field  = Food
+- Forest = Wood
+- Mine   = Steel
+- Quarry = Stone
+
+*the 5th resources is Gold which can be made in a variety of way the most basic of which is trading 4 of any resources with the Bank for one Gold*
+
+Resources can be used to buy Cards and pay for activated abilities
+
 ### Card Types
 <img src="./media/readme/card-types.png" alt="Card Types"/>
-
 <!--
 ### Card brackdown
 <img src="./media/card-brackdown.png"  width=40% height=40% alt="Card Brackdown"/> 
@@ -50,13 +70,6 @@ Your goal when playing Coin and Conquest is to make the most of the territory(s)
 ### Resources
 <img src="./media/resources.png" alt="Resources"/>
 -->
-### Resources 
-There are 4 basic resource types. each resource can be extracted from its corresponding territory with labor. 
-
-- Field  = Food
-- Forest = Wood
-- Mine   = Steel
-- Quarry = Stone
 
 ### Example Cards
 
