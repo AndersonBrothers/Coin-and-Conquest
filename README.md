@@ -75,6 +75,20 @@ Resources can be used to buy Cards and pay for activated abilities.
 <img src="./media/resources.png" alt="Resources"/>
 -->
 
+#### Standard 
+Standard cards are marked with a blue name banner. These cards may be played at any time. The text on these cards takes effect immediately upon them being played in order from top to bottom. 
+
+Once played standard cards remain in a player's play area until the clean up faze winter.
+
+#### Attack 
+Attack cards are marked by a red name banner. These cards may only be played during the combat phase and must be played on a territory infrastructure or contest card. (Attack cards are placed in the discard pile at the end of the combat phase slash attack cards remain in a players play area until winter (the clean up fees?)
+
+#### Infrastructure 
+Infrastructure cards are marked by a green name banner. Once played, unless otherwise stated, infrastructure cards remain in front of a player in their play area until the end of the game or until stolen by another player. Infrastructure cards often provide victory points and do so even if they are within a player's deck at the end of the game. 
+
+Territories and groups
+
+
 
 ### Example Cards
 <!--
