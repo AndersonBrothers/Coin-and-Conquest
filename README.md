@@ -44,9 +44,9 @@ Your goal when playing Coin and Conquest is to make the most of the territory(s)
 ### Territories
 In C&C each player starts with 2 Territories and a deck of 9 cards. This is their inheritance, this is the foundation of their kingdom. but each kingdom does not have the same geography and therefore not the same access to resources. In C&C there are 3 territory types.
 <p align="middle">
-   <img src="/media//readme/Farm-Land1.png" width="33%" />
-   <img src="/media//readme/Forest1.png" width="33%" /> 
-   <img src="/media//readme/Mine1.png" width="33%" /> 
+   <img src="/media//readme/Farm-Land1.png" width="32%" />
+   <img src="/media//readme/Forest1.png" width="32%" /> 
+   <img src="/media//readme/Mine1.png" width="32%" /> 
 </p>
 The land that you control will dictate much of what you can do with your kingdom. But if you feel constrained by the limits of your land don't worry you can always take someone else's.
 
